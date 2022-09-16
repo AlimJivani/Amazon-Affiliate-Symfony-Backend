@@ -1,0 +1,7 @@
+/.env
+/.vscode
+/composer.lock
+/phpunit.xml.dist
+/symfony.lock
+/var
+/vendor
